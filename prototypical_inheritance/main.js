@@ -1,0 +1,3 @@
+function HtmlElement() {}
+
+function HtmlSelectElement() {}
